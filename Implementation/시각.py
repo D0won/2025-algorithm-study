@@ -4,7 +4,6 @@ import sys
 N = int(sys.stdin.readline())
 # 3의 개수를 받는 변수
 count = 0
-
 for t in range(N + 1) :
     for m in range(60) :
         for s in range(60) :
